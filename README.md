@@ -67,19 +67,19 @@ The size of the secret seed and the domain separation parameters provide a comfo
 
 
 ## Build
-Installation for Windows and Linux is manual—see below; macOS uses the streamlined [DMG file](../../releases).  
+The instructions below are for Windows and Linux. macOS users can use the [DMG file](../../releases).
 
 
 
 
 
-Confirm that Git and Python are present.
+Prerequisites: Git and Python for Windows.
 
-https://git-scm.com/install/windows  
+Download Git here: https://git-scm.com/install/windows  
 
-https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe  
+Download Python here: https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe  
 
-Execute GIT CMD.
+Launch GIT CMD console.
 
 
 
